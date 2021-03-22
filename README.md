@@ -17,7 +17,7 @@ Learning day by day and helping devs. Enthusiast of technology and lover of Reac
 <br>
 
  <h3 align="center" >Languages and Tools:</h3> 
-----
+
 <div align="center">
 <img  width="30px" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/200px-HTML5_logo_and_wordmark.svg.png?alt=media&token=5b5b847e-0215-4208-b881-3e197461bcf6" alt="html"/>
 <img  width="23px" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/1200px-CSS.3.svg.png?alt=media&token=56014168-0a14-4486-8914-c1a09fb31a20" alt="css"/>
