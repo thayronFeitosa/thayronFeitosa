@@ -35,6 +35,20 @@ Learning day by day and helping devs. Enthusiast of technology and lover of Reac
 </div>
 
 ----
+
+<div align="center">
+<div>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayronFeitosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayronFeitosa&theme=dark&show_icons=true)
+
+</div>
+
+----
+
+
 <!--
 **danilo-vieira/danilo-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://camo.githubusercontent.com/c622b50a943e3aaed5eacb6ef8add49b4eca3e1748c5baabadb017618b61ef50/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f726573756d652d37643930362e61707073706f742e636f6d2f6f2f6e6f64656a732d696d6167652e706e673f616c743d6d6564696126746f6b656e3d39333935663336332d393638612d343632372d623637352d313136363430386235626632
